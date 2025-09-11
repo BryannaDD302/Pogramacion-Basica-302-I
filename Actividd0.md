@@ -1,4 +1,1 @@
-# Pogramacion-Basica-302-I
-## Bryanna Nathaly Duran Delgado
-## Fecha nacimiento 2/septiembre/2009
-## Portafolio de codigos de C++
+<img width="477" height="272" alt="image" src="https://github.com/user-attachments/assets/bc062b10-1c80-4d7f-86b1-20a61f8cc17f" />
