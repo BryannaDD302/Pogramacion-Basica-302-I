@@ -13,3 +13,5 @@ int main ()
   return 0; 
 }
 ```
+Bienvenidos a Programacion Basica en C++
+Gracias por Programar en clase
