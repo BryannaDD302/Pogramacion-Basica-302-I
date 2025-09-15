@@ -1,3 +1,4 @@
+```  cpp
 %%writefile PB302_1.cpp
 //Programa para imprimir mensaje de binvenida
 //Creado por Bryanna Nathaly Duran Delgdo
@@ -11,3 +12,4 @@ int main ()
   cout<<"Gracias por Programar en clase";
   return 0; 
 }
+```
