@@ -1,3 +1,4 @@
+##PB302_1.cpp
 ```  cpp
 %%writefile PB302_1.cpp
 //Programa para imprimir mensaje de binvenida
@@ -13,5 +14,6 @@ int main ()
   return 0; 
 }
 ```
+## Prueba de escitorio
 Bienvenidos a Programacion Basica en C++
 Gracias por Programar en clase
